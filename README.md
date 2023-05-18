@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi! I am Hristina Petrova 👋
+🏫I`m currently learning at SoftUni.
 
 <!--
 **HristinaPetrova/HristinaPetrova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
